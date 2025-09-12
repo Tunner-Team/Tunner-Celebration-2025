@@ -1,31 +1,31 @@
-## Introducing Incredibox Sprunkly
+## Introducing Tunner Celebration
 
-Welcome to **Incredibox Sprunkly**, a vibrant fan-made mod that reimagines the enchanting Sprunki universe as a dynamic platform for musical creativity. This innovative experience invites players to dive into a colorful world filled with whimsical characters and captivating soundscapes, perfect for both seasoned musicians and curious newcomers.
+Welcome to **Tunner Celebration 2025!**, A vibrant Tunner Celebration that reimagines the enchanting Mooca universe as a dynamic platform for musical creativity. This innovative experience invites players to dive into a colorful world filled with whimsical characters and captivating soundscapes, perfect for both seasoned musicians and curious newcomers.
 
-[Play Now](https://sprunkly.org/)
+[Participate now!](https://sprunkiscrunklies.comic.studio)
 
-## Other Sprunki Games
-[Sprunki Pyraminx](https://sprunkipyraminx.org/)
+## Other Tunner Celebration places
+[Scratch](https://scratch.mit.edu)
 
-[Scrunkly](https://scrunkly.cc/)
+[GitHub](https://github.com)
 
-[Sprunki Retake Final Update](https://scrunkly.cc/game/sprunki-retake-new-update)
+[Create a Scratch Block for Tunner!](https://scratchblocks.github.io)
 
-[Sprunki Pyramixed](https://scrunkly.cc/game/sprunki-pyramixed)
+[Scratch?!](https://scratch.com)
 
-[Sprunki Pyramixed New Update](https://sprunkly.org/game/sprunki-pyramixed-new-update)
+[Evoworld.io](https://evoworld.io)
 
-## What Is Incredibox Sprunkly?
+## What Is Tunner Celebration?
 
-**Incredibox Sprunkly** enhances the rhythmic gameplay of the original Sprunki, offering an immersive journey where you can craft unique musical compositions. With delightful visuals and engaging mechanics, this mod encourages exploration and experimentation, allowing you to blend various sound elements and create tracks that reflect your personal style.
+**Tunner Celebration** was created on October 1 2025!
 
-![Incredibox Sprunkly](https://game.sprunkly.org/202501091056162.png)
+![Tunner Celebration 2025!](https://game.sprunkly.org/202501091056162.png)
 
-## Key Features of Incredibox Sprunkly
+## Key Features of Tunner Celebration
 
 ### Unique Character Designs
 
-At the core of **Incredibox Sprunkly** are the charming Sprunkly characters, each featuring distinct transformations and melodic abilities. Choose from a diverse lineup, where each character adds a unique flavor to your musical creations. Watch as they animate and bring your compositions to life, adding an extra layer of joy to the process.
+At the core of **Tunner Celebration** are the charming Tunner peoples, each featuring distinct transformations and melodic abilities. Choose from a diverse lineup, where each character adds a unique flavor to your musical creations. Watch as they animate and bring your compositions to life, adding an extra layer of joy to the process.
 
 ### User-Friendly Music Creation
 
@@ -33,18 +33,18 @@ The intuitive drag-and-drop interface makes music creation accessible to everyon
 
 ### Dynamic Sound Transformations
 
-A standout feature of **Incredibox Sprunkly** is the ability to trigger special sound transformations. Discover unique combinations to unlock enhanced sound effects that elevate your tracks. These dynamic transformations enrich the listening experience and encourage players to experiment and push their creative boundaries.
+A standout feature of **Tunner Celebration** is the ability to trigger special sound transformations. Discover unique combinations to unlock enhanced sound effects that elevate your tracks. These dynamic transformations enrich the listening experience and encourage players to experiment and push their creative boundaries.
 
 ### Community Engagement
 
-**Incredibox Sprunkly** thrives on community interaction. Once you create a track you love, you can save and share it with fellow players. The vibrant Sprunkly community serves as a source of inspiration, feedback, and collaboration, allowing you to connect with other music enthusiasts and enhance your creative journey.
+**Tunner Celebration** thrives on community interaction. Once you create a track you love, you can save and share it with fellow players. The vibrant Sprunkly community serves as a source of inspiration, feedback, and collaboration, allowing you to connect with other music enthusiasts and enhance your creative journey.
 
-## Getting Started with Incredibox Sprunkly
+## Getting Started with Tunner Celebration!
 
-1. **Choose Your Character**: Select from the lineup of unique Sprunkly characters, each offering distinct abilities to enhance your musical style.
-2. **Compose Your Track**: Use the drag-and-drop functionality to arrange sounds and create dynamic melodies. Experiment with different combinations to discover your signature sound.
+1. **Wear a hat!**: Wear a hat for fun and dance!.
+2. **Enjoy!**: Please enjoy!
 3. **Unlock Transformations**: Watch for visual cues indicating when a character is about to transform. Mastering these transformations will add depth to your music and engage your audience.
-4. **Share and Collaborate**: Save your favorite compositions and share them with the Sprunkly community. Connect with other players to exchange ideas and inspire each other.
+4. **Share and Collaborate**: Save your favorite compositions and share them with the Instagram, YouTube, Twitter, Facebook and more! Connect with other players to exchange ideas and inspire each other.
 
 ## Tips for an Enhanced Experience
 
